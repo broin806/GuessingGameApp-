@@ -1,6 +1,7 @@
 # GuessingGameApp-
 
 Programming Language: Kotlin 
+
 IDE: Android Studio
 
 User starts off with registering themselves by adding, searching or displaying the users in the database. You are then proceeded to the login page and prompted to enter in your credentials such as the respective password and username. 
